@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Persistencia I</string>
+    <string name="digite_seu_usu_rio">Digite seu usuário</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="manter_conectado">Manter conectado</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="logininvelido">Login inválido</string>
+</resources>
